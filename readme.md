@@ -1,4 +1,4 @@
-# Nature子刊 AI & Psychology 相关论文整理
+# Nature子刊 AI & Psychology 相关论文整理：情感分析方面
 
 ## Nature Communications (s41467)
 多学科开放获取期刊，涵盖了自然科学的广泛主题，包括生命科学、物理科学、化学科学等。
