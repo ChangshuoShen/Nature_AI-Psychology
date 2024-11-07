@@ -29,3 +29,65 @@
 
 #### 一句话
 这篇是在探索现有的大模型在做判断的时候(思维理论方面)“像不像人”，结果是一些方面差不多，但是一些方面因为模型本身的特质，比如“GPT-4推理时超保守”，“LLaMA2可能偏向将情景解读为无知而在辨别社交失误的测试中优于人类”？得到这些模型比较像人，但是有偏？
+#### 细读
+Theory of Mind: The ability for tracking other people's mental states
+theory of mind refers to an interconnected set of notions that are combined to explain, predict, and justify the behaviour of others.
+
+In the service of the broader multidisciplinary study of machine behaviour28, there have been recent calls for a ‘machine psychology’29that have argued for using tools and paradigms from experimental psychology to systematically investigate the capacities and limits of LLMs30. 
+
+检索的一些结果
+* A large-scale examination of inductive biases shaping high-level visual representation in brains and machines
+    * 对塑造大脑和机器高级视觉表示的归纳偏差进行大规模检查
+    * <a href="https://www.nature.com/articles/s41467-024-53147-y">链接</a>
+    * <a href="./llm_and_human_papers/s41467-024-53147-y.pdf">查看PDF</a>
+* Larger and more instructable language models become less reliable
+    * 更大、更易指导的语言模型变得不太可靠
+    * <a href="https://www.nature.com/articles/s41586-024-07930-y">链接</a>
+    * <a href="./llm_and_human_papers/s41586-024-07930-y.pdf">查看PDF</a>
+
+* Brains and algorithms partially converge in natural language processing
+    * 大脑和算法在自然语言处理中部分融合
+    * <a href="https://www.nature.com/articles/s42003-022-03036-1?fromPaywallRec=false">链接</a>
+    * <a href="./llm_and_human_papers/s42003-022-03036-1.pdf">查看PDF</a>
+
+* Unmasking and quantifying racial bias of large language models in medical report generation
+    * 揭露和量化医疗报告生成中大型语言模型的种族偏见
+    * <a href="https://www.nature.com/articles/s43856-024-00601-z"></a>
+    * <a href="./llm_and_human_papers/s43856-024-00601-z.pdf"></a>
+
+* Large pre-trained language models contain human-like biases of what is right and wrong to do
+    * 大型预训练语言模型包含类似人类的正确和错误行为偏见
+    * <a href="https://www.nature.com/articles/s42256-022-00458-8">链接</a>
+    * <a href="./llm_and_human_papers/s42256-022-00458-8.pdf">查看PDF</a>
+
+
+https://www.nature.com/articles/s41598-024-69032-z
+
+https://www.nature.com/articles/s41562-023-01659-w
+
+https://www.nature.com/articles/s42256-023-00718-1
+
+https://www.nature.com/articles/s41598-024-65080-7
+
+https://www.nature.com/articles/s41593-022-01026-4
+
+https://www.nature.com/articles/s41598-024-70031-3
+
+https://www.nature.com/articles/s41599-024-03553-w
+
+https://www.nature.com/articles/s41562-024-01991-9
+
+https://www.nature.com/articles/s41599-024-03868-8
+
+https://www.nature.com/articles/s42256-023-00703-8
+
+https://www.nature.com/articles/s42256-022-00534-z
+
+https://www.nature.com/articles/d41586-024-00189-3
+
+https://www.nature.com/articles/s41562-023-01671-0
+
+https://www.nature.com/articles/d41586-024-00824-z
+
+https://www.nature.com/articles/s41433-023-02842-z
+
