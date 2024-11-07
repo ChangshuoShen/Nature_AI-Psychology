@@ -1,11 +1,11 @@
-# Nature子刊 AI 相关论文整理
+# Nature子刊 AI & Psychology 相关论文整理
 
 ## Nature Communications (s41467)
 多学科开放获取期刊，涵盖了自然科学的广泛主题，包括生命科学、物理科学、化学科学等。
 
 ### Encoding of multi-modal emotional information via personalized skin-integrated wireless facial interface
 通过个性化皮肤集成无线面部接口编码多模态情感信息
-* [s41467-023-44673-2](s41467-023-44673-2.pdf)
+* [./papers/s41467-023-44673-2](./papers/s41467-023-44673-2.pdf)
 
 #### 摘要提取
 1. **研究背景和目的**：
@@ -35,7 +35,7 @@ decoding and encoding emotional information poses signiﬁcant challenges due to
 
 ### Face and context integration in emotion inference is limited and variable across categories and individuals
 情感推理中的⾯部和上下⽂整合是有限的，并且在不同类别和个人之间存在差异
-- [s41467-024-46670-5](s41467-024-46670-5.pdf)
+- [./papers/s41467-024-46670-5](./papers/s41467-024-46670-5.pdf)
 
 #### 摘要提取
 
@@ -64,7 +64,7 @@ https://osf.io/7e6j5/
 
 ### Multimodal mapping of the face connectome
 面部连接组的多模态映射
-- [s41562-019-0811-3](s41562-019-0811-3.pdf)
+- [./papers/s41562-019-0811-3](./papers/s41562-019-0811-3.pdf)
 #### 摘要提取
 
 1. **研究背景**：
@@ -91,7 +91,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### The representational dynamics of perceived voice emotions evolve from categories to dimensions
 感知语音情感的表征动态从类别演变到维度
-- [s41562-021-01073-0](s41562-021-01073-0.pdf)
+- [./papers/s41562-021-01073-0](./papers/s41562-021-01073-0.pdf)
 #### 摘要提取
 1. **研究背景**：情感科学长期以来将情绪刺激的感知分为离散类别（如愤怒的声音）和连续维度属性（如强烈、负面的声音情绪），但这两种观点的优劣仍存争议。
 
@@ -111,7 +111,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Large-scale AI language systems display an emergent ability to reason by analogy
 大规模AI语言模型展现出一种涌现的有能力理由类比
-- [s41562-023-01671-0](s41562-023-01671-0.pdf)
+- [./papers/s41562-023-01671-0](./papers/s41562-023-01671-0.pdf)
 #### 文章提取
 **关键信息提取**：
 
@@ -140,7 +140,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Testing theory of mind in large language models and humans
 在LLM和人类中检测心理理论
-- [s41562-024-01882-z](s41562-024-01882-z.pdf)
+- [./papers/s41562-024-01882-z](./papers/s41562-024-01882-z.pdf)
 #### 摘要提取
 1. **研究主题**：探索大语言模型（LLMs），如ChatGPT和LLaMA2，在心智理论(Theory of Mind)任务中的表现，研究其与人类在理解他人心理状态上的可比性。
 
@@ -161,7 +161,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Natural language instructions induce compositional generalization in networks of neurons
 自然语言指令诱导神经元网络中的成分泛化
-- [s41593-024-01607-5](s41593-024-01607-5.pdf)
+- [./papers/s41593-024-01607-5](./papers/s41593-024-01607-5.pdf)
 
 #### 摘要提取
 1. **研究背景**：
@@ -195,7 +195,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### a uniform human multimodal dataset for emotion perception and judgments
 用于情绪感知和判断的统一人类多模态数据集
-- [s41597-023-02693-z](s41597-023-02693-z.pdf)
+- [./papers/s41597-023-02693-z](./papers/s41597-023-02693-z.pdf)
 #### 摘要提取
 **关键信息提取**
 1. **研究背景**：
@@ -231,7 +231,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Multi‑class sentiment analysis of urdu text using multilingual BERT
 使用多语言BERT对urdu文本做多类别情感分析
-- [s41598-022-09381-9](s41598-022-09381-9.pdf)
+- [./papers/s41598-022-09381-9](./papers/s41598-022-09381-9.pdf)
 #### 摘要提取
 1. **研究背景与重要性**：
    - 情感分析是理解公众观点的关键任务，目前大部分研究基于英文，而对于低资源语言（如乌尔都语）的研究相对有限。
@@ -258,7 +258,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Classification of emotional states via transdermal cardiovascular spatiotemporal facial patterns using multispectral face videos
 使用多光谱面部视频通过透皮心血管时空面部模式对情绪状态进行分类
-- [s41598-022-14808-4](s41598-022-14808-4.pdf)
+- [./papers/s41598-022-14808-4](./papers/s41598-022-14808-4.pdf)
 #### 摘要提取
 **关键信息提取**
 
@@ -283,7 +283,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Pet dog facial expression recognition based on convolutional neural network and improved whale optimization algorithm
 基于卷积神经网络和改进Whale优化算法的宠物狗面部表情识别
-- [s41598-023-30442-0](s41598-023-30442-0.pdf)
+- [./papers/s41598-023-30442-0](./papers/s41598-023-30442-0.pdf)
 #### 摘要提取
 1. **研究背景**：
    - 识别宠物狗的面部表情有助于促进人与宠物狗之间的和谐相处（hahaha，这个角度好新奇
@@ -306,7 +306,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Predicting and understanding human action decisions during skillful joint‑action using supervised machine learning and explainable‑AI
 使用监督机器学习和可解释人工智能来预测和理解熟练联合行动期间的人类行动决策
-- [s41598-023-31807-1](s41598-023-31807-1.pdf)
+- [./papers/s41598-023-31807-1](./papers/s41598-023-31807-1.pdf)
 
 #### 摘要提取
 1. **研究目的**：
@@ -329,7 +329,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Speech emotion classification using attention based network and regularized feature selection
 使用基于注意力的网络和正则化特征选择进行语音情感分类
-- [s41598-023-38868-2](s41598-023-38868-2.pdf)
+- [./papers/s41598-023-38868-2](./papers/s41598-023-38868-2.pdf)
 #### 摘要提取
 1. **研究目的**：
    - 研究并改进从语音中分类情感的准确性，以提升人机交互（HCI）和情感计算领域的应用效果。
@@ -351,7 +351,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Sentence‑level sentiment analysis based on supervised gradual machine learning
 基于监督渐进ML的句子级情感分析
-- [s41598-023-41485-8](s41598-023-41485-8.pdf)
+- [./papers/s41598-023-41485-8](./papers/s41598-023-41485-8.pdf)
 #### 摘要提取
 
 1. **研究目的**：
@@ -375,7 +375,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Amharic political sentiment analysis using deep learning approaches
 使用深度学习方法进行Amharic政治情绪分析
-- [s41598-023-45137-9](s41598-023-45137-9.pdf)
+- [./papers/s41598-023-45137-9](./papers/s41598-023-45137-9.pdf)
 #### 摘要提取
 
 1. **研究目的**：
@@ -398,7 +398,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Speech emotion analysis using CNN and gamma classifier‑based error correcting output codes (ECOC)
 使用卷积神经网络 (CNN) 和基于gamma分类器的纠错输出代码进行语音情感分析
-- [s41598-023-47118-4](s41598-023-47118-4.pdf)
+- [./papers/s41598-023-47118-4](./papers/s41598-023-47118-4.pdf)
 #### 摘要提取
 1. **研究背景与动机**：
    - 语音情感分析（Speech Emotion Analysis, SEA）是人机交互领域内推动人工智能发展的关键需求之一。其应用广泛，包括在线支持、测谎系统、客户反馈分析等，表明了其重要的现实应用价值。然而，现有技术在语音情感识别方面仍存在不足，推动研究进一步提升准确性和效率。
@@ -423,7 +423,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 ### Verbal lie detection using Large Language Models
 使用LLMs做口头谎言检测
-- [s41598-023-50214-0](s41598-023-50214-0.pdf)
+- [./papers/s41598-023-50214-0](./papers/s41598-023-50214-0.pdf)
 
 #### 摘要提取
 1. **研究背景与问题**：
@@ -442,13 +442,11 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
    - 本研究展示了FLAN-T5模型在语言欺骗检测中的潜力，并通过语言特征的分析提升了模型解释性，揭示了特定语言特征与欺骗检测之间的联系，为未来基于LLM的欺骗检测研究提供了新的方向。
 
 #### 一句话
-
-
-
+人类中判断言辞真假的准确率无法超过随机猜测水平，此工作使用FLAN-T5(小规模和基础规模)进行欺骗分类的研究，使用三个数据集，其中训练集和测试集来自相同数据集的训练效果比较好——说明三个数据集之间还是有差异的
 
 ### A pilot study of measuring emotional response and perception of LLM‑generated questionnaire and human‑generated questionnaires
 测量LLM生成的问卷和人工生成的问卷的情绪反应和感知的试点研究
-- [s41598-024-53255-1](s41598-024-53255-1.pdf)
+- [./papers/s41598-024-53255-1](./papers/s41598-024-53255-1.pdf)
 #### 摘要提取
 
 1. **研究背景与目的**：
@@ -468,12 +466,14 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 5. **研究贡献**：
    - 本研究是**评估用户对ChatGPT生成内容感知的先驱之一**，结果表明ChatGPT在问卷生成方面得到了积极评价，并在提高情绪体验方面表现有效。
 
+#### 一句话
+这里使用人工生成的问卷和GPT生成的问卷对测试者情感体验上的影响("What is your gender"(human-mede) vs. "With respect, may I know your grnder"(GPT-generated))，使用情绪检测模型进行数据分析，发现GPT可以提高参与者的幸福感和降低其悲伤感。
+
 ### Hierarchical graph contrastive learning of local and global presentation for multimodal sentiment analysis
 用于多模态情感分析的局部和全局表示的分层图对比学习
-- [s41598-024-54872-6](s41598-024-54872-6.pdf)
+- [./papers/s41598-024-54872-6](./papers/s41598-024-54872-6.pdf)
 
 #### 摘要提取
-
 1. **研究背景与目的**：
    - 多模态情感分析（MSA）通过声学、视觉和文本线索对情感进行回归或分类。然而，大多数现有研究关注单一话语的多模态信息表达能力，而忽略了数据集的**全局共现特征**。
    - 本研究提出了一种**层次图对比学习框架**，旨在探索单一话语的局部和全局表示，以更好地提取多模态情感并分析复杂关系。
@@ -487,10 +487,13 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 3. **研究创新**：
    - 首次在MSA中引入**层次图对比学习框架**，通过多层次图结构更准确地表达和学习单一话语的多模态信息和情感特征。
 
+#### 一句话
+新的多模态情感分析方法——层次图对比学习(HGCL-LG)，探索单个话语中局部和全局表示之间的关系，利用图增强策略进行跨层比较学习，以提取复杂的关系信息。该方法使用离散变分自编码器（dVAE）将不同样本映射到共同的嵌入空间，并在此基础上构建本地图和全球图，采用三种比较学习方法：本地图对比学习、全球化对比学习和跨层图对比学习，以充分学习情感特征在局部信息和全局信息以及两者之间复杂关系中的表现。
+
 
 ### Sentiment analysis of video danmakus based on MIBE‑RoBERTa‑FF‑BiLSTM
 基于MIBE‑RoBERTa‑FF‑BiLSTM做弹幕情感分析
-- [s41598-024-56518-z](s41598-024-56518-z.pdf)
+- [./papers/s41598-024-56518-z](./papers/s41598-024-56518-z.pdf)
 #### 摘要提取
 
 1. **研究背景与目的**：
@@ -499,7 +502,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 2. **方法概述**：
    - **数据集**：构建了“Bilibili必看列表和Top视频Danmaku情感数据集”，包括18个主题下的10,000条正负情感Danmaku文本。
-   - **新词识别算法**：基于互信息（MI）和分支熵（BE）的算法，发现2610个不规则的网络流行新词，形成领域词汇库。
+   - **新词识别算法**：基于互信息（MI, Mutual Information）和分支熵（BE, Binary Entropy）的算法，发现2610个不规则的网络流行新词，形成领域词汇库。
    - **情感标注**：采用**马斯洛需求层次理论**指导情感一致性标注。
    - **模型构建**：将领域词汇库集成到RoBERTa-FF-BiLSTM模型的特征融合层中，学习Danmaku文本的词信息、字符信息和上下文信息，并进行情感分类。
 
@@ -508,17 +511,20 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
    - **创新点**：结合领域词汇库和RoBERTa-FF-BiLSTM模型，提升了Danmaku情感分类的性能。
 
 4. **局限性**：
+旨在解决视频弹幕情感分析中传统方法在领域词汇量、语义特征提取等方面的不足，通过构建“哔哩哔哩必看榜单和热门视频弹幕情感数据集”，使用互信息和分支熵算法发现不规则网络流行新词，并应用马斯洛需求层次理论指导情感标注。将自定义领域词典与RoBERTa-FF-BiLSTM模型融合，充分学习弹幕文本的语义特征和上下文信息，提高情感分类准确率和鲁棒性。
    - 领域词汇库的构建仍需人工参与和审核。
    - 忽略了Danmaku视频内容的语义信息和正向案例的偏好。
+
+#### 一句话
+旨在解决视频弹幕情感分析中传统方法在领域词汇量、语义特征提取等方面的不足，通过构建“哔哩哔哩必看榜单和热门视频弹幕情感数据集”，使用互信息(MI)和分支熵算法(BE)发现不规则网络流行新词，并应用马斯洛需求层次理论指导情感标注。将自定义领域词典与RoBERTa-FF-BiLSTM模型融合，充分学习弹幕文本的语义特征和上下文信息，提高情感分类准确率和鲁棒性。
+#### 进阶：结合弹幕同时的视频内容做多模态的分析
 
 ### Predicting multi‑label emojis, emotions, and sentiments in code‑mixed texts using an emojifying sentiments framework
 使用表情符号情感框架预测代码混合文本中的多标签表情符号、情绪和情感
 ![sentiment vs. emotion](./imgs/sentiment_vs_emotion.png)
-
-- [s41598-024-58944-5](s41598-024-58944-5.pdf)
+- [./papers/s41598-024-58944-5](./papers/s41598-024-58944-5.pdf)
 
 #### 摘要提取
-
 1. **研究背景与目的**：
    - 随着社交媒体的普及，表情符号（emoji）和代码混合语言（如英语-印地语代码混合）在在线交流中变得至关重要。选择合适的表情符号来匹配特定的情感或情绪是一项挑战。
    - 本文提出了一项新任务：预测英语-印地语代码混合句子中的多标签表情符号、情感和情绪，并提出了一个新的数据集 **SENTIMOJI**，该数据集扩展了SemEval 2020 Task 9 SentiMix数据集。
@@ -536,9 +542,15 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
    - 本研究为自然语言处理领域作出了贡献，尤其是在代码混合语言中的情感分析和情绪识别工具的开发上。
    - 提供的数据集和代码将在[链接](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#SENTIMOJI)上公开，便于研究人员使用和进一步探索。
 
+#### 一句话
+引入一种多标签表情符号、情感和情绪预测框架，用于处理混合语言文本中的社交媒体帖子，利用情感、情绪和emoji之间的密切关系，使用RMS层归一化等对F-Net进行增强。提出的多任务框架优于单任务框架，且表情与情感和情绪之间存在强关联，可以准确地预测最合适的表情符号
+
+任务新颖：在混杂文本中预测多个表情符号，并识别用户的情感和情绪
+
+
 ### A multimodal approach to cross‑lingual sentiment analysis with ensemble of transformer and LLM
 结合 Transformer 和 LLM 进行跨语言情感分析的多模态方法
-- [s41598-024-60210-7](s41598-024-60210-7.pdf)
+- [./papers/s41598-024-60210-7](./papers/s41598-024-60210-7.pdf)
 #### 摘要提取
 
 1. **研究背景与目的**：
@@ -559,9 +571,13 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
    - 本研究为外语情感分析提供了一种有效的方法，尤其是在缺乏标注数据的情况下。
    - 提出的集成模型能更好地进行跨语言的情感分析，对多语言社交媒体数据分析具有重要意义。
 
+#### 一句话
+探讨如何通过跨语言情感分析解决非英语语言中缺乏数据的问题，感觉比较直观，因为翻译本身就可以理解为一个广义的一一映射嘛，不过是语义层面的一一映射，毕竟两次翻译可以用来做数据增强
+
+
 ### Towards determining perceived audience intent for multimodal social media posts using the theory of reasoned action
 使用理性行动理论确定多模式社交媒体帖子的感知受众意图
-- [s41598-024-60299-w](s41598-024-60299-w.pdf)
+- [./papers/s41598-024-60299-w](./papers/s41598-024-60299-w.pdf)
 #### 摘要提取
 
 1. **研究背景与目的**：
@@ -583,34 +599,35 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
    - 调查发现，约70%的用户认为为内容打上意图标签帮助他们提高了对所浏览内容的认知，并愿意尝试基于这些标签过滤内容。
    - 研究还表明，需要更广泛的用户评估来进一步了解增加感知意图标签是否能有效减轻社交媒体的负面影响。
 
+#### 一句话
+方向很好，“解决社交媒体上虚假信息和负面情绪对用户的影响问题”，训模型(基于视觉和文本模态以及理性行动理论(TRA))用于预测社交媒体帖子的意图，并根据心理学理论将作者的态度和社会规范考虑进去。
+方法也有参考价值，直接设计一个网页展示带有意图的标签来收集用户反馈，感觉之后做工作（如果有心理学相关的内容，需要收集志愿者数据）可以参考一下
+
 ### On‑device query intent prediction with lightweight LLMs to support ubiquitous conversations
 使用轻量级 LLMs 进行设备上查询意图预测，以支持无处不在的对话
-- [s41598-024-63380-6](s41598-024-63380-6.pdf)
+- [./papers/s41598-024-63380-6](./papers/s41598-024-63380-6.pdf)
 #### 摘要提取
-
 1. **研究背景与问题**：
    - 当前的对话代理（CAs）通过基于硬编码规则和固定交互流程来提供用户帮助，但这种方式限制了代理的灵活性和可扩展性。
    - 大型语言模型（LLMs）作为替代方案虽能增强对话代理，但大多数依赖云服务，无法有效保护用户隐私。
-
 2. **研究目标与方法**：
    - 本研究旨在通过迁移学习和微调轻量级预训练LLMs来预测用户查询的意图，并实现模型的设备端部署。
    - 重点在于实现个性化、无处不在且保护隐私的用户交互场景。
-
 3. **模型与实验**：
    - 实验结果表明，RoBERTa和XLNet在平衡模型性能与资源占用方面表现最佳，尤其适合设备端部署。
    - 微调后的轻量级LLMs在性能上可媲美ChatGPT。
-
 4. **应用与影响**：
    - 研究探讨了该模型在隐私保护、性能与内存占用之间的平衡，并分析了对相关研究人员和实践者的潜在影响。
    - 本研究为设备端对话代理提供了LLMs的适用性见解，强调了性能和内存占用的中间平衡。
 
+#### 一句话
+这个是部署在近端的轻量预训练大模型，为设计个性、隐私保护和无处不在的对话代理提供解决方案，一些请轻量级预先训练模型可以在性能和内存占用之间找到trade-off
+
 
 ### An enhanced speech emotion recognition using vision transformer
 使用ViT的增强语音情感识别
-
-- [s41598-024-63776-4](s41598-024-63776-4.pdf)
+- [./papers/s41598-024-63776-4](./papers/s41598-024-63776-4.pdf)
 #### 摘要提取
-
 1. **研究背景与意义**：
    - 语音情感识别（SER）在人机交互系统中至关重要，使计算机能够理解并响应用户的情感。
    - 传统SER主要依赖于语音信号的声学特征，但深度学习与计算机视觉的发展使得视觉信号也能增强SER性能。
@@ -618,6 +635,7 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 2. **研究方法**：
    - 本研究提出了一种利用轻量级视觉Transformer（ViT）模型的新方法来提升SER效果。
    - 使用ViT模型捕捉图像中的空间依赖关系和高层次特征，将mel谱图作为模型输入来识别情感。
+      * mel谱图是一种用于语音信号频率分布的图形，基于梅尔刻度而不是线性刻度来划分频率轴，且在时间和频率上都是离散的
 
 3. **实验与结果**：
    - 实验在两个基准数据集（Toronto English Speech Set和Berlin Emotional Database）上进行。
@@ -626,122 +644,118 @@ https://github.com/mirrorneuronwang/HCP_face_connectome
 
 4. **研究贡献与影响**：
    - 研究表明ViT模型可有效集成到SER系统中，为实现准确的情感识别提供了新的应用前景，并在多个性能指标上优于现有技术。
+#### 一句话
+使用轻量的ViT模型对语音信号进行处理，并提取与情感相关的高级特征，不局限于音频信号中的声学特征，从而提高了语音情感识别的准确性。
 
-
-## s41599
-*Nature Communications Psychology*：通常包含心理学研究和应用心理科学的内容，推动心理学的科学传播。
-
+## Nature Communications Psychology (s41599)
+通常包含心理学研究和应用心理科学的内容，推动心理学的科学传播。
 ### Decoding violence against women: analysing harassment in middle eastern literature with machine learning and sentiment analysis
 解码针对妇女的暴力行为：利用机器学习和情感分析来分析中东文学中的骚扰行为
-- [s41599-024-02908-7](s41599-024-02908-7.pdf)
+- [./papers/s41599-024-02908-7](./papers/s41599-024-02908-7.pdf)
 #### 摘要提取
 
 1. **研究背景与意义**：
    - 中东国家的骚扰现象在文学作品中有所反映，但由于人类认知局限性和潜在偏见，从文本中提取数据以理解骚扰的类型和频率具有挑战性。
    - 本研究旨在使用自然语言处理（NLP）方法，提出一个机器学习框架，用于对文学作品中的性骚扰内容进行文本挖掘。
-
 2. **研究方法**：
    - 数据来源为十二本中东小说。
    - 提出了一个框架，使用机器学习模型对性骚扰的物理性和非物理性类型进行分类。
    - 应用了基于词典的情感和情绪检测，对涉及性骚扰的句子进行数据标注和分析。
    - 使用长短时记忆网络（LSTM）和门控循环单元（GRU）深度学习模型，分类引发性骚扰的情感特征。
-
 3. **实验与结果**：
    - LSTM-GRU模型在性骚扰分类上取得了75.8%的准确率，优于五种其他算法。
    - 使用LSTM-GRU循环神经网络（RNN）对三类情感（负面、正面、中性）进行分类，准确率为84.5%。
    - 基于词典的情感分析结果显示，大多数陈述（即使涉及物理性性骚扰）都有负面情感，物理性骚扰的性骚扰程度较高。
-
 4. **研究贡献与影响**：
    - 本研究为文本挖掘领域提供了一种新的方法，用于识别中东地区文学作品中的性骚扰实例。
    - 采用机器学习模型和情感分析技术，能够更准确地识别和分类不同类型的性骚扰。
    - 本研究揭示了性骚扰在中东国家的普遍性，并强调了需要进一步研究和采取行动解决这一问题。
 
-## s42256
+#### 一句话
+使用NLP分析中东文学作品中的性骚扰现象，并构建机器学习框架进行文本挖掘(将性骚扰行为分为物理和非物理两类，并应用情感词典和情绪检测技术对包含性骚扰实例的句子进行标记和分析)，使用LSTM-GRU对导致性骚扰的情感特征进行分类，发现情感分析可以帮助识别不同类型的性骚扰。这个是因为方向新颖么？
 
-*Nature Machine Intelligence*：专注于人工智能、机器学习、机器人等方面的前沿研究成果。
+## Nature Machine Intelligence(s42256)
+专注于人工智能、机器学习、机器人等方面的前沿研究成果。
+
 ### Estimation of continuous valence and arousal levels from faces in naturalistic conditions
 自然条件下面部的连续效价和唤醒水平的估计
-- [s42256-020-00280-0](s42256-020-00280-0.pdf)
+- [./papers/s42256-020-00280-0](./papers/s42256-020-00280-0.pdf)
 #### 摘要提取
-
 1. **研究背景与意义**：
    - 面部情感分析旨在通过使计算机更好地理解人的情绪状态，创造新型的人机互动。
    - 传统的离散情感类别（如愤怒、快乐、悲伤等）无法全面代表人类日常表现的情绪，心理学家通常依赖维度化的情感度量——愉悦度（valence）和唤起度（arousal）。
    - 然而，计算机系统自动估计面部的愉悦度和唤起度仍是一个难题，尤其在自然环境下的估计面临挑战。
-
 2. **研究方法**：
    - 提出了一个新的深度神经网络架构，用于在自然条件下分析面部情感，且具有较高的准确性。
    - 该网络集成了面部对齐，并在单次处理过程中同时估计分类情感和连续情感，适用于实时应用。
-
 3. **实验与结果**：
    - 在三个具有挑战性的自然环境数据集上进行测试，结果表明，该方法优于所有之前的方法。
-
 4. **研究贡献与影响**：
    - 提出的深度神经网络方法在自然条件下面部情感分析中表现出色，解决了估计愉悦度和唤起度的难题。
    - 讨论了该工具使用中的一些注意事项以及应用中的伦理问题。
 
+#### 一句话
+介绍了一种新的方法，用于在自然条件下估计面部表情的连续情感值（valence效价和arousal唤醒水平）。现有的CV工作主要关注预测实验室条件下的“典型”情绪表达，而心理学家则更注重维度上的影响因素。本文提出的深度神经网络结构可以同时进行面部对齐和正确预测离散和连续的情感标签，并且可以在单个步骤中实现。
 
 ### Testing the limits of natural language models for predicting human language judgements
 测试自然语言模型预测人类语言判断的极限
-- [s42256-023-00718-1](s42256-023-00718-1.pdf)
-
+- [./papers/s42256-023-00718-1](./papers/s42256-023-00718-1.pdf)
 #### 摘要提取
 1. **研究背景与意义**：
    - 神经网络语言模型越来越趋向与人类语言处理和生成方式相一致，但由于语言的离散性和人类语言感知的复杂性，识别这些模型的弱点存在挑战。
-
 2. **研究方法**：
    - 通过将不同语言模型对立，生成具有争议的句子对，其中两个语言模型在判断哪个句子更可能出现时存在分歧。
    - 选择了九种语言模型（包括n-gram、递归神经网络和transformer），并通过合成优化或从语料库中选择句子生成了数百对争议句子。
-
 3. **实验与结果**：
    - 争议句子对在揭示模型缺陷和识别与人类语言判断最接近的模型方面非常有效。
    - 测试的最具人类一致性的模型是GPT-2，但实验也揭示了其与人类感知之间存在显著差距。
-
 4. **研究贡献与影响**：
    - 该方法有效识别语言模型的不足，尤其是帮助揭示模型与人类判断之间的不一致，突显了GPT-2模型的局限性。
 
-## s44159
-*Nature Mental Health*：致力于心理健康和相关的临床研究，包括精神病学、心理学和行为科学等领域。
+#### 一句话
+探讨神经网络语言模型与人类语言处理之间的关系：通过让不同的语言模型互相竞争，生成一系列有争议的句子对，从而揭示模型的失败和它们与人类判断的一致性
+
+## Nature Mental Health(s44159)
+致力于心理健康和相关的临床研究，包括精神病学、心理学和行为科学等领域。
 
 ### Using large language models in psychology
 在心理学领域使用LLMs
-- [s44159-023-00241-5](s44159-023-00241-5.pdf)
+- [./papers/s44159-023-00241-5](./papers/s44159-023-00241-5.pdf)
 #### 摘要提取
 1. **研究背景与意义**：
    - 大型语言模型（LLMs），如OpenAI的GPT-4、Google的Bard和Meta的LLaMa，提供了前所未有的机会，可以大规模地分析和生成语言数据。
    - 语言数据在心理学的各个领域中占据核心地位，因此，LLMs有潜力改变这一领域。
-
 2. **研究目标与方法**：
    - 本文回顾了LLMs的基础知识，解释了它们如何通过构造方式有效地生成类似人类的语言输出，但并不具备像人类那样思考或感知的能力。
    - 探讨了LLMs在心理学测量、实验和实践中的潜力，尽管它们目前尚不适用于许多最具变革性的心理学应用，但进一步的研究和发展可能会使其具备这样的能力。
-
 3. **主要问题与挑战**：
    - 探讨了LLMs应用于心理学中的四个主要问题，并讨论了如何克服这些问题。
-
 4. **研究贡献与建议**：
    - 提出了为解决这些问题所需的投资建议：包括建立领域发起的“关键”数据集；增加性能基准的标准化；共享计算和分析基础设施，确保LLM驱动的研究未来能公平进行。
 
+#### 一句话
+LLMs在心理学领域可用，但是在许多最具变革性的心理学领域还有技术限制；提出四个主要关注点：数据集质量、性能基准标准化、共享计算和分析基础设施等。
 
-## s44271
-*Nature Aging*：关注与衰老相关的研究，包括衰老过程、生物学机制、老年健康和相关疾病等方面的内容。
+## Nature Aging(s44271)
+关注与衰老相关的研究，包括衰老过程、生物学机制、老年健康和相关疾病等方面的内容。
 
 ### Question-based computational language approach outperforms rating scales in quantifying emotional states
 基于问题的计算语言方法在量化情绪状态方面优于评级量表
-- [s44271-024-00097-2](s44271-024-00097-2.pdf)
+- [./papers/s44271-024-00097-2](./papers/s44271-024-00097-2.pdf)
 
 #### 摘要汇总
 1. **研究背景与问题**：
    - 传统上，心理学中的情绪状态多采用封闭式评分量表来量化。
    - 随着自然语言处理（NLP）的进展，开放式语言回应的量化成为可能。
-
 2. **研究方法**：
    - 297名参与者生成与抑郁、焦虑、满意或和谐相关的叙述，并用五个描述性词语总结并评分。
    - 另一组434名参与者从作者的角度评估这些叙述（包括描述性词语和评分量表）。
    - NLP用于量化描述性词语，机器学习用于将响应分类为相应的情绪状态。
-
 3. **研究结果**：
    - 基于描述性词语的分类准确率显著高于评分量表（64% 对比 44%）。
    - 结果质疑了评分量表在情绪状态测量中的精确性，表明语言为基础的测量方法可能更为精确。
-
 4. **研究意义**：
    - 本研究展示了NLP和开放式语言回应在量化情绪状态方面的潜力，为心理测量提供了新的视角。
+
+#### 一句话
+该论文探讨了使用NLP技术对情感状态进行量化评估的效果，并与传统的情感评分量表进行比较。研究人员设计了一种新的实验方法，让参与者写下自己的情感经历并用五个关键词概括，通过NLP转化为向量对其进行分类。结果表明，使用NLP分析关键词比使用传统的情感评分量表更准确地识别出情感状态。
