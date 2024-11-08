@@ -5,7 +5,6 @@
     * <a href="https://arxiv.org/abs/2303.13988">Arxiv链接</a>
     * <a href="./machine_psychology/2303.13988v6.pdf">查看PDF</a>
 
-
 * The Machine Psychology of Cooperation: Can GPT models operationalise prompts for altruism, cooperation, competitiveness and selfishness in economic games?
     * 合作的机器心理学：GPT模型能否在经济博弈中实现利他、合作、竞争和自私的提示？
     * <a href="https://arxiv.org/abs/2305.07970">Arxiv链接</a>
@@ -41,6 +40,3 @@
     * 人工智能的道德心理学
     * <a href="https://www.semanticscholar.org/paper/The-Moral-Psychology-of-Artificial-Intelligence.-Bonnefon-Rahwan/97217d457944ee4267d9e439646fa75e5d5cd156">链接</a>
     * <a href="./machine_psychology/moral_psychology_AI.pdf">查看PDF</a>
-
-
-    

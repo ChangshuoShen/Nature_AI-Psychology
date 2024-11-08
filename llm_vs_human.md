@@ -35,82 +35,119 @@ theory of mind refers to an interconnected set of notions that are combined to e
 
 In the service of the broader multidisciplinary study of machine behaviour, there have been recent calls for a ‘machine psychology’ that have argued for using tools and paradigms from experimental psychology to systematically investigate the capacities and limits of LLMs. 
 
-检索的一些结果
-* A large-scale examination of inductive biases shaping high-level visual representation in brains and machines
-    * 对塑造大脑和机器高级视觉表示的归纳偏差进行大规模检查
-    * <a href="https://www.nature.com/articles/s41467-024-53147-y">链接</a>
-    * <a href="./llm_and_human_papers/s41467-024-53147-y.pdf">查看PDF</a>
+## 探索
+### A large-scale examination of inductive biases shaping high-level visual representation in brains and machines
+* 对塑造大脑和机器高级视觉表示的归纳偏差进行大规模检查
+* <a href="https://www.nature.com/articles/s41467-024-53147-y">链接</a>
+* <a href="./llm_and_human/s41467-024-53147-y.pdf">查看PDF</a>
+
+#### 摘要提取
+1. **研究背景**：
+   - 高性能的计算机视觉模型迅速发展，使研究不同归纳偏差对大脑中学习表征的影响成为可能。
+   
+2. **研究方法**：
+   - 对224种不同的模型进行受控比较（Taskonomy模型是一种受控的模型养育方式，它将不同的任务应用于同一个基础编码器架构，并且这些任务包括自动编码、深度预测、场景分类、表面法线和边缘检测等不同类型的监督或无监督目标），测试其特定属性对视觉脑预测能力的影响。
+   - 研究过程中进行了超过18亿次回归分析和5万次表征相似性分析（RSA）。
+
+3. **主要发现**：
+   - 不同架构（如CNN和Transformer）或任务目标（如纯视觉对比学习与视觉-语言对齐）的模型在大脑预测能力上表现出几乎相同的效果，前提是控制其他因素。
+   - 训练数据的多样性对大脑预测能力的影响最大且最一致。
+   - 尽管模型的底层表征存在差异，但许多模型在大脑预测能力方面仍然表现出类似的高水平。这表明当前用于将模型与大脑进行关联的标准方法可能过于灵活。
+
+4. **研究意义**：
+   - 这些结果对常见的大脑对齐假设提出了挑战，建议可以利用受控模型比较来探索生物和人工视觉系统背后的共同计算原理。
+
+#### 一句话
+旨在探讨人工神经网络在学习生物视觉系统中的表现，并比较不同模型的预测能力。作者使用了大规模实验和分析方法，测试了224个不同的深度学习模型对自然图像的响应，以及它们与人类脑区的相似性。总体上，这些模型都能够较好地预测大脑的反应。此外，作者还发现，在某些情况下，CNN比Transformer更能够预测大脑的反应
 
 
 * Larger and more instructable language models become less reliable
     * 更大、更易指导的语言模型变得不太可靠
     * <a href="https://www.nature.com/articles/s41586-024-07930-y">链接</a>
-    * <a href="./llm_and_human_papers/s41586-024-07930-y.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41586-024-07930-y.pdf">查看PDF</a>
+#### 摘要提取
+1. **背景与问题**：
+   - 当前使大型语言模型更强大、更具适应性的主要方法包括**扩展规模**（增加模型大小、数据量、计算资源）和**定制调整**（如后期过滤、微调和人类反馈）。
+   - 随着模型规模的增大和可指导性提升，大型语言模型的**可靠性**有所下降。
+
+2. **研究方法**：
+   - 研究了不同模型在**难度一致性**、**任务回避**和**提示稳定性**方面的表现，以分析模型规模和调整对模型可靠性的影响。
+
+3. **主要发现**：
+   - **难易一致性**：模型在处理人类认为简单的任务时表现良好，但在复杂任务上，模型表现出错误，并且人类监督难以察觉。
+   - **任务回避和错误倾向**：早期模型往往回避回答问题，而扩展和调整后的模型则更倾向于给出**看似合理但错误的回答**，尤其在难题上，这种错误更难被监督者识别。
+   - **提示稳定性**：扩展和调整后的模型对不同措辞的稳定性有所改善，但在所有难度层次上仍然存在变化不稳定的“盲区”。
+
+4. **研究意义**：
+   - 结果表明，在高风险场景中（如医疗、法律），仅依靠规模扩展和模型调整无法保证模型错误的可预测性和稳定性，因此需要**重新设计和开发通用人工智能模型**的思路。
+
+
+
 
 * Brains and algorithms partially converge in natural language processing
     * 大脑和算法在自然语言处理中部分融合
     * <a href="https://www.nature.com/articles/s42003-022-03036-1?fromPaywallRec=false">链接</a>
-    * <a href="./llm_and_human_papers/s42003-022-03036-1.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s42003-022-03036-1.pdf">查看PDF</a>
 
 * Unmasking and quantifying racial bias of large language models in medical report generation
     * 揭露和量化医疗报告生成中大型语言模型的种族偏见
     * <a href="https://www.nature.com/articles/s43856-024-00601-z"></a>
-    * <a href="./llm_and_human_papers/s43856-024-00601-z.pdf"></a>
+    * <a href="./llm_and_human/s43856-024-00601-z.pdf"></a>
 
 * Large pre-trained language models contain human-like biases of what is right and wrong to do
     * 大型预训练语言模型包含类似人类的正确和错误行为偏见
     * <a href="https://www.nature.com/articles/s42256-022-00458-8">链接</a>
-    * <a href="./llm_and_human_papers/s42256-022-00458-8.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s42256-022-00458-8.pdf">查看PDF</a>
 
 * Strategic behavior of large language models and the role of game structure versus contextual framing
     * 大语言模型的策略行为以及游戏结构与上下文框架的作用
     * <a href="https://www.nature.com/articles/s41598-024-69032-z">链接</a>
-    * <a href="./llm_and_human_papers/s41598-024-69032-z.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41598-024-69032-z.pdf">查看PDF</a>
 
 * Emergent analogical reasoning in large language models
     * 大型语言模型中的紧急类比推理
     * <a href="https://www.nature.com/articles/s41562-023-01659-w">链接</a>
-    * <a href="./llm_and_human_papers/s41562-023-01659-w.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41562-023-01659-w.pdf">查看PDF</a>
 
 * Testing the limits of natural language models for predicting human language judgements
     * 测试自然语言模型预测人类语言判断的极限
     * <a href="https://www.nature.com/articles/s42256-023-00718-1">链接</a>
-    * <a href="./llm_and_human_papers/s42256-023-00718-1.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s42256-023-00718-1.pdf">查看PDF</a>
 
 * Comparing human text classification performance and explainability with large language and machine learning models using eye-tracking
     * 使用眼动追踪将人类文本分类性能和可解释性与大型语言和机器学习模型进行比较
     * <a href="https://www.nature.com/articles/s41598-024-65080-7">链接</a>
-    * <a href="./llm_and_human_papers/s41598-024-65080-7.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41598-024-65080-7.pdf">查看PDF</a>
 
 * Shared computational principles for language processing in humans and deep language models
     * 人类语言处理和深度语言模型的共享计算原理
     * <a href="https://www.nature.com/articles/s41593-022-01026-4">链接</a>
-    * <a href="./llm_and_human_papers/s41593-022-01026-4.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41593-022-01026-4.pdf">查看PDF</a>
 
 * Strong and weak alignment of large language models with human values
     * 大语言模型与人类价值观的强对齐和弱对齐
     * <a href="https://www.nature.com/articles/s41598-024-70031-3">链接</a>
-    * <a href="./llm_and_human_papers/s41598-024-70031-3.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41598-024-70031-3.pdf">查看PDF</a>
 
 * A clarification of the conditions under which Large language Models could be conscious
     * 澄清大语言模型可以有意识的条件
     * <a href="https://www.nature.com/articles/s41599-024-03553-w">链接</a>
-    * <a href="./llm_and_human_papers/s41599-024-03553-w.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41599-024-03553-w.pdf">查看PDF</a>
 
 * Building machines that learn and think with people
     * 构建与人一起学习和思考的机器
     * <a href="https://www.nature.com/articles/s41562-024-01991-9">链接</a>
-    * <a href="./llm_and_human_papers/s41562-024-01991-9.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41562-024-01991-9.pdf">查看PDF</a>
 
 * Experimental narratives: A comparison of human crowdsourced storytelling and AI storytelling
     * 实验叙事：人类众包讲故事和人工智能讲故事的比较
     * <a href="https://www.nature.com/articles/s41599-024-03868-8">链接</a>
-    * <a href="./llm_and_human_papers/s41599-024-03868-8.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s41599-024-03868-8.pdf">查看PDF</a>
 
 * Language models and linguistic theories beyond words
     * 超越语言的语言模型和语言理论
     * <a href="https://www.nature.com/articles/s42256-023-00703-8">链接</a>
-    * <a href="./llm_and_human_papers/s42256-023-00703-8.pdf">查看PDF</a>
+    * <a href="./llm_and_human/s42256-023-00703-8.pdf">查看PDF</a>
 
 * Two-faced AI language models learn to hide deception
     * 双面人工智能语言模型学习隐藏欺骗(这是一篇新闻)
@@ -119,12 +156,22 @@ In the service of the broader multidisciplinary study of machine behaviour, ther
 * Large-scale AI language systems display an emergent ability to reason by analogy
     * 大规模人工智能语言系统显示出类比推理的新兴能力(只有一页，之前看过)
     * <a href="https://www.nature.com/articles/s41562-023-01671-0">链接</a>
-    * <a href="./llm_and_human_papers/s41562-023-01671-0.pdf">查看PDEF</a>
+    * <a href="./llm_and_human/s41562-023-01671-0.pdf">查看PDEF</a>
 
 * Three reasons why AI doesn’t model human language
     * 人工智能没有模拟人类语言的三个原因(特别短，且是通讯文章)
     * <a href="https://www.nature.com/articles/d41586-024-00824-z">链接</a>
-    * <a href="./llm_and_human_papers/d41586-024-00824-z.pdf">查看PDF</a>
+    * <a href="./llm_and_human/d41586-024-00824-z.pdf">查看PDF</a>
+
+* A generic self-learning emotional framework for machines
+    * 机器的通用自学习情感框架
+    * <a href="https://www.nature.com/articles/s41598-024-72817-x">链接</a>
+    * <a href="./llm_and_human/s41598-024-72817-x.pdf">查看PDF</a>
+
+* Self-orienting in human and machine learning
+    * 人类和机器学习中的自我定位
+    * <a href="https://www.nature.com/articles/s41562-023-01696-5">链接</a>
+    * <a href="./llm_and_human/s41562-023-01696-5.pdf">查看PDF</a>
 
 
 <!-- https://www.nature.com/articles/s42256-022-00534-z 这是一篇大模型做基因注释的工作-->
