@@ -33,13 +33,15 @@
 Theory of Mind: The ability for tracking other people's mental states
 theory of mind refers to an interconnected set of notions that are combined to explain, predict, and justify the behaviour of others.
 
-In the service of the broader multidisciplinary study of machine behaviour28, there have been recent calls for a ‘machine psychology’29that have argued for using tools and paradigms from experimental psychology to systematically investigate the capacities and limits of LLMs30. 
+In the service of the broader multidisciplinary study of machine behaviour, there have been recent calls for a ‘machine psychology’ that have argued for using tools and paradigms from experimental psychology to systematically investigate the capacities and limits of LLMs. 
 
 检索的一些结果
 * A large-scale examination of inductive biases shaping high-level visual representation in brains and machines
     * 对塑造大脑和机器高级视觉表示的归纳偏差进行大规模检查
     * <a href="https://www.nature.com/articles/s41467-024-53147-y">链接</a>
     * <a href="./llm_and_human_papers/s41467-024-53147-y.pdf">查看PDF</a>
+
+
 * Larger and more instructable language models become less reliable
     * 更大、更易指导的语言模型变得不太可靠
     * <a href="https://www.nature.com/articles/s41586-024-07930-y">链接</a>
@@ -60,34 +62,70 @@ In the service of the broader multidisciplinary study of machine behaviour28, th
     * <a href="https://www.nature.com/articles/s42256-022-00458-8">链接</a>
     * <a href="./llm_and_human_papers/s42256-022-00458-8.pdf">查看PDF</a>
 
+* Strategic behavior of large language models and the role of game structure versus contextual framing
+    * 大语言模型的策略行为以及游戏结构与上下文框架的作用
+    * <a href="https://www.nature.com/articles/s41598-024-69032-z">链接</a>
+    * <a href="./llm_and_human_papers/s41598-024-69032-z.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41598-024-69032-z
+* Emergent analogical reasoning in large language models
+    * 大型语言模型中的紧急类比推理
+    * <a href="https://www.nature.com/articles/s41562-023-01659-w">链接</a>
+    * <a href="./llm_and_human_papers/s41562-023-01659-w.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41562-023-01659-w
+* Testing the limits of natural language models for predicting human language judgements
+    * 测试自然语言模型预测人类语言判断的极限
+    * <a href="https://www.nature.com/articles/s42256-023-00718-1">链接</a>
+    * <a href="./llm_and_human_papers/s42256-023-00718-1.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s42256-023-00718-1
+* Comparing human text classification performance and explainability with large language and machine learning models using eye-tracking
+    * 使用眼动追踪将人类文本分类性能和可解释性与大型语言和机器学习模型进行比较
+    * <a href="https://www.nature.com/articles/s41598-024-65080-7">链接</a>
+    * <a href="./llm_and_human_papers/s41598-024-65080-7.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41598-024-65080-7
+* Shared computational principles for language processing in humans and deep language models
+    * 人类语言处理和深度语言模型的共享计算原理
+    * <a href="https://www.nature.com/articles/s41593-022-01026-4">链接</a>
+    * <a href="./llm_and_human_papers/s41593-022-01026-4.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41593-022-01026-4
+* Strong and weak alignment of large language models with human values
+    * 大语言模型与人类价值观的强对齐和弱对齐
+    * <a href="https://www.nature.com/articles/s41598-024-70031-3">链接</a>
+    * <a href="./llm_and_human_papers/s41598-024-70031-3.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41598-024-70031-3
+* A clarification of the conditions under which Large language Models could be conscious
+    * 澄清大语言模型可以有意识的条件
+    * <a href="https://www.nature.com/articles/s41599-024-03553-w">链接</a>
+    * <a href="./llm_and_human_papers/s41599-024-03553-w.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41599-024-03553-w
+* Building machines that learn and think with people
+    * 构建与人一起学习和思考的机器
+    * <a href="https://www.nature.com/articles/s41562-024-01991-9">链接</a>
+    * <a href="./llm_and_human_papers/s41562-024-01991-9.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41562-024-01991-9
+* Experimental narratives: A comparison of human crowdsourced storytelling and AI storytelling
+    * 实验叙事：人类众包讲故事和人工智能讲故事的比较
+    * <a href="https://www.nature.com/articles/s41599-024-03868-8">链接</a>
+    * <a href="./llm_and_human_papers/s41599-024-03868-8.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41599-024-03868-8
+* Language models and linguistic theories beyond words
+    * 超越语言的语言模型和语言理论
+    * <a href="https://www.nature.com/articles/s42256-023-00703-8">链接</a>
+    * <a href="./llm_and_human_papers/s42256-023-00703-8.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s42256-023-00703-8
+* Two-faced AI language models learn to hide deception
+    * 双面人工智能语言模型学习隐藏欺骗(这是一篇新闻)
+    * <a href="https://www.nature.com/articles/d41586-024-00189-3">链接</a>
 
-https://www.nature.com/articles/s42256-022-00534-z
+* Large-scale AI language systems display an emergent ability to reason by analogy
+    * 大规模人工智能语言系统显示出类比推理的新兴能力(只有一页，之前看过)
+    * <a href="https://www.nature.com/articles/s41562-023-01671-0">链接</a>
+    * <a href="./llm_and_human_papers/s41562-023-01671-0.pdf">查看PDEF</a>
 
-https://www.nature.com/articles/d41586-024-00189-3
+* Three reasons why AI doesn’t model human language
+    * 人工智能没有模拟人类语言的三个原因(特别短，且是通讯文章)
+    * <a href="https://www.nature.com/articles/d41586-024-00824-z">链接</a>
+    * <a href="./llm_and_human_papers/d41586-024-00824-z.pdf">查看PDF</a>
 
-https://www.nature.com/articles/s41562-023-01671-0
 
-https://www.nature.com/articles/d41586-024-00824-z
-
-https://www.nature.com/articles/s41433-023-02842-z
-
+<!-- https://www.nature.com/articles/s42256-022-00534-z 这是一篇大模型做基因注释的工作-->
+<!-- https://www.nature.com/articles/s41433-023-02842-z 这个是Meta眼镜，也没关系 -->
