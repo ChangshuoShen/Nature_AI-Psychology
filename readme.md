@@ -759,3 +759,9 @@ LLMs在心理学领域可用，但是在许多最具变革性的心理学领域�
 
 #### 一句话
 该论文探讨了使用NLP技术对情感状态进行量化评估的效果，并与传统的情感评分量表进行比较。研究人员设计了一种新的实验方法，让参与者写下自己的情感经历并用五个关键词概括，通过NLP转化为向量对其进行分类。结果表明，使用NLP分析关键词比使用传统的情感评分量表更准确地识别出情感状态。
+
+
+## 跳转
+在这之后思路跳到了<a href="https://github.com/ChangshuoShen/physics_in_language_models">physics in language models</a> 和 <a href="https://github.com/ChangshuoShen/Nature_AI-Psychology/blob/main/machine_psychology.md">machine psychology</a>
+
+
